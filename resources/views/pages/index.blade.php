@@ -529,7 +529,7 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
     <!-- end of introduction -->
 
     <div class="container"style="background-color:black;">
-        <div class="row" style="background-color:black;">
+        <div class="row" style="background-color:black; text-align:center;">
             <div class ="col-md-4">
                 <div class="image-style">
                  <img src="team1.PNG" alt="" style="border-radius:50%;" height="250px" width="250px;"> 
