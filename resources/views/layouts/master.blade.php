@@ -58,16 +58,16 @@
                 </ul>
                
             </div>  -->
-            <div class="button">
-                <button style="   
+                <!-- <button style="   
                  font-weight: bold;
                  padding:12px;
     cursor: pointer;
     border-radius: 50px;
     border-color: white;
     align-self: var(--align);
-    margin: 0;">Connect Wallet</button>
-            </div>
+    margin: 0;">Connect Wallet</button> -->
+
+    <button class="btn btn-danger" type="cancel"> Connect Wallet</button>
         </div> <!-- end of container -->
     </nav> <!-- end of navbar -->
     <!-- end of navigation -->

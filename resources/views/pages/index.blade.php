@@ -324,7 +324,7 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
 
                     <div class =" selector" style="margin-left:38px; padding-top:50px;">
                         <button class="btn btn-primary" style="border-radius: 50%;width: 2.5rem;height: 2.5rem; font-size: 1.35rem;"> - </button>
-                        <input type="number" style="max-width: 10rem; border-radius: 50px;">
+                        <input type="number" style="max-width: 10rem; border-radius: 50px;" placeholder="1">
                         <button class="btn btn-primary" style="border-radius: 50%;width: 2.5rem;height: 2.5rem; font-size: 1.35rem;"> + </button>
                         <br>
                         <button style="font-weight: bold;
@@ -385,7 +385,7 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
                 </div> <!-- end of col -->
                 <div class="col-lg-7">
                     <div class="image-container">
-                        <img class="img-fluid" src="collage.jpg" alt="alternative">
+                        <img class="img-fluid" src="collage.png" alt="alternative">
                     </div> <!-- end of image-container -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
@@ -521,53 +521,47 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h3 style="color:white;">Meet The Team?</h3>
+                    <h3 style="color:white;">Meet The Team</h3>
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
         </div> <!-- end of container -->
     </div> <!-- end of basic-1 -->
     <!-- end of introduction -->
 
-   <div class="container"style="background-color:black;">>
-        <div class="row " style="background-color:black;">
-            <div class =" col-md-4">
-                    <!-- Card -->
-                    <div class="card"  style="height:300px; width:300px; padding-right: 30px; background-color:black;">
-                         <div class ="cardone mew" style="background-color:black;">>
+    <div class="container"style="background-color:black;">
+        <div class="row" style="background-color:black;">
+            <div class ="col-md-4">
+                <div class="image-style">
+                 <img src="team1.png" alt="" style="border-radius:50%;" height="250px" width="250px;"> 
+                 <h4 style="margin-left:66px; color:white;">Developer</h4>
 
-                        </div>
-                    </div>
-                    <!-- end of card -->
+                </div>
 
             </div>
-            <div class="col-md-4">
-
-                    <!-- Card -->
-                    <div class="card"  style="height:300px; width:200px;padding-left: 22px; background-color:black;">
-                         <div class ="cardone black" >
-
-                        </div>
-                    </div>
-                    <!-- end of card -->
-
-            </div>
-            <div class="col-md-4">
-                  <!-- Card -->
-                  <div class="card" style="height:300px; width:200px; padding-left: 43px; background-color:black;">
-                         <div class ="cardone pink" >
-
-                        </div>
-                    </div>
-                    <!-- end of card -->
+      
+            <div class ="col-md-4">
+                <div class="image-style" >
+                 <img src="team2.png" alt="" style="border-radius:50%;" height="250px" width="250px;"> 
+                    <h4 style="margin-left:34px; color:white;">Marketing Expert</h4>
+                </div>
 
             </div>
 
-        </div>
+            <div class ="col-md-4">
+                <div class="image-style" >
+                 <img src="team3.png" alt="" style="border-radius:50%;" height="250px" width="250px;"> 
+                    <h4 style="margin-left:66px; color:white;">Developer</h4>
+                </div>
 
-    </div>
+            </div>
+
+        </div> 
+        
+    <div>
+
+
    </section>
 
- 
 
 
 
