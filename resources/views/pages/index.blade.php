@@ -287,11 +287,14 @@
                 <div class="col-lg-6">
                     <div class="text-container">
                         <h1 class="h1-large" style="color: white !important; font-size:42px;">Mutated PokeVerse</h1>
+                        <h5 style="color:red;">CountDown To Launch</h5>
+                        <p id="demo" style="color:white; font-size:24px;"></p>
+
                         <h3 style="color: red;"><b>7000 unique 3 Eye Charizlord</b> </h3>
-                        <p class="p-large" style="color: white !important;"> The year is 2140 and most of the monster have mutated, Charizlord have developed a three eye that can see the future and slow down time. Here your chance to catch one! </p>
+                        <p class="p-large" style="color: white !important;"> The year is 2140 and most of the monsters have Mutated.  Charizlord has developed a third eye that can see the future and slow down time. Here your chance to catch the super rare Charizlord! </p>
                         <a class="btn-solid-lg" style="background: rgb(58,180,87);
-background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, rgba(69,252,221,1) 94%);" href="#your-link">Discord</a>
-                        <a class="btn-solid-lg secondary" href="#your-link" style="background: rgb(58,180,87);
+background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, rgba(69,252,221,1) 94%);" href="#your-">Discord</a>
+                        <a class="btn-solid-lg secondary" href="https://twitter.com/MPokeverse" target="_blank" style="background: rgb(58,180,87);
 background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, rgba(69,252,221,1) 94%);">Twitter</a>
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
@@ -550,7 +553,7 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
             <div class ="col-md-4">
                 <div class="image-style" >
                  <img src="team3.PNG" alt="" style="border-radius:50%;" height="250px" width="250px;"> 
-                    <h4 style="margin-left:66px; color:white;">Developer</h4>
+                    <h4 style="margin-left:66px; color:white;">Designer/ UI</h4>
                 </div>
 
             </div>
@@ -611,7 +614,7 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
                         <h3 style="color:white;">  How much Charizlord can i mint at a time ?</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p style="color:black;">You can buy up to 20 Charizlord at a time! </p>
+                                <p style="color:black;">You can buy up to 20 Charizlord Per Transaction ! </p>
                             </div>
 
                         </div>
@@ -666,10 +669,10 @@ Click the shiny mint button, approve the transaction on MetaMask and watch chari
                     </div>
 
                     <div class="question-title">
-                        <h3 style="color:white;"> Where can is the Twitter link?</h3>
+                        <h3 style="color:white;"> where can i find the twitter link?</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p style="color:black;"> <a href="">Twitter</a> </p>
+                                <p style="color:black;"> <a href="https://twitter.com/MPokeverse" target="_blank">Twitter</a> </p>
                             </div>
 
                         </div>
@@ -705,6 +708,40 @@ $(document).ready(function(){
 		$(this).parent().siblings().removeClass('active');
 	});
 });
+</script>
+
+
+<script>
+// Set the date we're counting down to
+var countDownDate = new Date("Oct 1, 2021 02:00:00").getTime();
+
+countDownDate.toLocaleString('en-US', { timeZone: 'America/New_York' });
+
+// Update the count down every 1 second
+var x = setInterval(function() {
+
+  // Get today's date and time
+  var now = new Date().getTime();
+    
+  // Find the distance between now and the count down date
+  var distance = countDownDate - now;
+    
+  // Time calculations for days, hours, minutes and seconds
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+    
+  // Output the result in an element with id="demo"
+  document.getElementById("demo").innerHTML = days + "d " + hours + "h "
+  + minutes + "m " + seconds + "s ";
+    
+  // If the count down is over, write some text 
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("demo").innerHTML = "EXPIRED";
+  }
+}, 1000);
 </script>
 
 @endsection
