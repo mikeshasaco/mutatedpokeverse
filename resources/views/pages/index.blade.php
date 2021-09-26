@@ -293,7 +293,7 @@
                         <h3 style="color: red;"><b>7000 unique 3 Eye Charizlord</b> </h3>
                         <p class="p-large" style="color: white !important;"> The year is 2140 and most of the monsters have Mutated.  Charizlord has developed a third eye that can see the future and slow down time. Here your chance to catch the super rare Charizlord! </p>
                         <a class="btn-solid-lg" style="background: rgb(58,180,87);
-background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, rgba(69,252,221,1) 94%);" href="#your-">Discord</a>
+background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, rgba(69,252,221,1) 94%);" href="https://discord.com/invite/7mEKVKz6sE">Discord</a>
                         <a class="btn-solid-lg secondary" href="https://twitter.com/MPokeverse" target="_blank" style="background: rgb(58,180,87);
 background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, rgba(69,252,221,1) 94%);">Twitter</a>
                     </div> <!-- end of text-container -->
@@ -661,7 +661,7 @@ Click the shiny mint button, approve the transaction on MetaMask and watch chari
                         <h3 style="color:white;"> Where can is the Discord link?</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p style="color:black;"> <a href="">Discord</a> </p>
+                                <p style="color:black;"> <a href="https://discord.com/invite/7mEKVKz6sE">Discord</a> </p>
                             </div>
 
                         </div>
