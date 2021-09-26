@@ -724,7 +724,7 @@ $(document).ready(function(){
 
 <script>
 // Set the date we're counting down to
-var countDownDate = new Date("Oct 6, 2021 02:00:00").getTime();
+var countDownDate = new Date("Oct 8, 2021 02:00:00").getTime();
 
 countDownDate.toLocaleString('en-US', { timeZone: 'America/New_York' });
 
