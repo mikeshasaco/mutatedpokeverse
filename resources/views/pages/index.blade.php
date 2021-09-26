@@ -502,7 +502,7 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
                                     <p style="color:white;">Staking  & Mutated PokeVerse Token (ERC20)</p>
                                 </li>
                                 <li>
-                                    <p style="color:white;">A suprise collection of new mutated pokiverse monsters will be airdropped to all NFT holders</p>
+                                    <p style="color:white;">A suprise collection of new mutated pokeverse monsters will be airdropped to all NFT holders</p>
                                 </li>
                             </ul>
                         </div>
@@ -577,7 +577,7 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
                 <h2 class="vouch-merchant-customerh2" style="text-align: center; padding-bottom:80px; font-size: 60px; color:black; ">FAQ</h2>
 
                     <div class="question-title">
-                        <h3 style="color:white;">  What is Mutated Pokiverse Society?</h3>
+                        <h3 style="color:white;">  What is Mutated Pokeverse Society?</h3>
                         <div class="content-main">
                             <div class="content-inner">
                                 <p style="color:black;">A community of trainers catching Charizlord for him or herself! 7000 Unique Charizlord are out there in the Ethereum blockchain that possess different attributes and traits from one another. </p>
@@ -662,6 +662,17 @@ Click the shiny mint button, approve the transaction on MetaMask and watch chari
                         <div class="content-main">
                             <div class="content-inner">
                                 <p style="color:black;"> <a href="">Discord</a> </p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <div class="question-title">
+                        <h3 style="color:white;"> where can i find the twitter link?</h3>
+                        <div class="content-main">
+                            <div class="content-inner">
+                                <p style="color:black;"> <a href="https://twitter.com/MPokeverse" target="_blank">Twitter</a> </p>
                             </div>
 
                         </div>
