@@ -367,7 +367,7 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
                             <p style="color:white;">7,000 Charizlord NFTs</p>
                         </li>
                         <li>
-                            <p style="color:white;">Up ro 20 Charizlord NFTs Per Transaction</p>
+                            <p style="color:white;">Up to 20 Charizlord NFTs Per Transaction</p>
                         </li>
                         <li>
                             <p style="color:white;">0.07 ETH + gas</p>
