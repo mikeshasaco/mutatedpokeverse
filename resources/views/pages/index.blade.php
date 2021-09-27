@@ -679,17 +679,7 @@ Click the shiny mint button, approve the transaction on MetaMask and watch chari
 
                     </div>
 
-                    <div class="question-title">
-                        <h3 style="color:white;"> where can i find the twitter link?</h3>
-                        <div class="content-main">
-                            <div class="content-inner">
-                                <p style="color:black;"> <a href="https://twitter.com/MPokeverse" target="_blank">Twitter</a> </p>
-                            </div>
-
-                        </div>
-
-                    </div>
-
+                   
              
 
                 
