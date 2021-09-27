@@ -323,7 +323,7 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
 
                     </div>
 
-                    <h5 style="text-align:center; font-weight:bold; color:black;">0.05 ETH</h5>
+                    <h5 style="text-align:center; font-weight:bold; color:black;">0.06 ETH</h5>
 
                     <div class =" selector" style="margin-left:38px; padding-top:50px;">
                         <button class="btn btn-primary" style="border-radius: 50%;width: 2.5rem;height: 2.5rem; font-size: 1.35rem;"> - </button>
@@ -370,7 +370,7 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
                             <p style="color:white;">Up to 20 Charizlord NFTs Per Transaction</p>
                         </li>
                         <li>
-                            <p style="color:white;">0.05 ETH + gas</p>
+                            <p style="color:white;">0.06 ETH + gas</p>
                         </li>
                         <li>
                             <p style="color:white;">Random Minting</p>
@@ -591,7 +591,7 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
                         <h3 style="color:white;">  When can i Mint?</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p style="color:black;">October 2st 2021, 2AM EST </p>
+                                <p style="color:black;">October 5st 2021, 2AM EST </p>
                             </div>
 
                         </div>
@@ -603,7 +603,7 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
                         <h3 style="color:white;">  How much to mint a Charizlord ?</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p style="color:black;">0.05 ETH + Gas</p>
+                                <p style="color:black;">0.06 ETH + Gas</p>
                             </div>
 
                         </div>
@@ -673,6 +673,17 @@ Click the shiny mint button, approve the transaction on MetaMask and watch chari
                         <div class="content-main">
                             <div class="content-inner">
                                 <p style="color:black;"> <a href="https://twitter.com/MPokeverse" target="_blank">Twitter</a> </p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <div class="question-title">
+                        <h3 style="color:white;"> How can I see my Charizlord once minted?</h3>
+                        <div class="content-main">
+                            <div class="content-inner">
+                                <p style="color:black;"> Your NFT will appear in your metamask wallet, also you will be able to see your NFT on OpenSea</p>
                             </div>
 
                         </div>
