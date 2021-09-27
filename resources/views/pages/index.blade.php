@@ -537,6 +537,7 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
                 <div class="image-style">
                  <img src="team1.PNG" alt="" style="border-radius:50%;" height="250px" width="250px;"> 
                  <h4 style="margin-left:66px; color:white;">Developer</h4>
+                 <h6 style="color:white;">CaptainLord</h6>
 
                 </div>
 
@@ -546,6 +547,7 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
                 <div class="image-style" >
                  <img src="team2.PNG" alt="" style="border-radius:50%;" height="250px" width="250px;"> 
                     <h4 style="margin-left:34px; color:white;">Marketing Expert</h4>
+                    <h6 style="color:white;">BentheLord</h6>
                 </div>
 
             </div>
@@ -554,6 +556,8 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
                 <div class="image-style" >
                  <img src="team3.PNG" alt="" style="border-radius:50%;" height="250px" width="250px;"> 
                     <h4 style="margin-left:66px; color:white;">Designer/ UI</h4>
+                    <h6 style="color:white;"> TomtheLeader</h6>
+                    <h6></h6>
                 </div>
 
             </div>
