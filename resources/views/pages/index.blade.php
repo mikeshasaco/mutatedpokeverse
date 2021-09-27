@@ -378,9 +378,9 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
                         <li>
                             <p style="color:white;">5% of sale funds will be used to buy the floor and push the brand!</p>
                         </li>
-                        <li>
+                        <!-- <li>
                             <p style="color:white;">Charizlord will be revealed shortly after the minting</p>
-                        </li>
+                        </li> -->
 
                         </ul>
                      
