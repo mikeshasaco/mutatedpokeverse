@@ -367,7 +367,7 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
                             <p style="color:white;">7,000 Charizlord NFTs</p>
                         </li>
                         <li>
-                            <p style="color:white;">Up to 20 Charizlord NFTs Per Transaction</p>
+                            <p style="color:white;">Up to 10 Charizlord NFTs Per Transaction</p>
                         </li>
                         <li>
                             <p style="color:white;">0.06 ETH + gas</p>
@@ -618,7 +618,7 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
                         <h3 style="color:white;">  How much Charizlord can i mint at a time ?</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p style="color:black;">You can buy up to 20 Charizlord Per Transaction ! </p>
+                                <p style="color:black;">You can buy up to 10 Charizlord Per Transaction ! </p>
                             </div>
 
                         </div>
