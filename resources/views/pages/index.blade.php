@@ -680,17 +680,40 @@ Click the shiny mint button, approve the transaction on MetaMask and watch chari
                     </div>
 
                     <div class="question-title">
-                        <h3 style="color:white;"> How can I see my Charizlord once minted?</h3>
+                        <h3 style="color:white;"> Where will I be able to see my Charizlord NFT?</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p style="color:black;"> Your NFT will appear in your metamask wallet, also you will be able to see your NFT on OpenSea</p>
+                                <p style="color:black;"> Your Charizlord NFT will appear in your metamask wallet, also you will be able to see your NFT on opensea.io .</p>
                             </div>
 
                         </div>
 
                     </div>
 
-                   
+                    <div class="question-title">
+                        <h3 style="color:white;"> Which Charizlord set is ultra rare?</h3>
+                        <div class="content-main">
+                            <div class="content-inner">
+                                <p style="color:black;">The gold Armor/ Gold Skin Charizlord</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="question-title">
+                        <h3 style="color:white;"> Which BlockChain?</h3>
+                        <div class="content-main">
+                            <div class="content-inner">
+                                <p style="color:black;"> Ethereum Network</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+               
+
              
 
                 
