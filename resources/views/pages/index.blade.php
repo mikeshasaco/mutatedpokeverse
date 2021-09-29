@@ -451,12 +451,12 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
                     <div class="card">
                         <div class="card-image">
                         <img src="meltedpoka.png" alt="">
-                            <h2 style="color:white">25%</h2>
+                            <h2 style="color:white">20%</h2>
                         </div>
                         <div class="card-body">
                             <ul>
                                 <li>
-                                    <p style="color:white;">Giveaway 10 NFTs & 5 ETH among 50 Community members!!</p>
+                                    <p style="color:white;">Giveaway 5 NFTs & 5 ETH among 50 Community members!!</p>
                                 </li>
                                 <li>
                                     <p style="color:white;">Rarity tools & Rarity Sniper Activation</p>
@@ -464,6 +464,7 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
                                 <li>
                                     <p style="color:white;">OpenSea Verification</p>
                                 </li>
+                                <li> <p style="color:white;"> Begin Developing Game, Will be able To Earn $MPOKE For playing Game </p> </li>
                             </ul>
                         </div>
                     </div>
@@ -472,15 +473,15 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
                     <!-- Card -->
                     <div class="card">
                         <div class="card-image">
-                        <img src="meltedpoka.png" alt=""> <h2 style="color:white">50%</h2>
+                        <img src="meltedpoka.png" alt=""> <h2 style="color:white">40%</h2>
                         </div>
                         <div class="card-body">
                             <ul>
                                 <li>
-                                    <p style="color:white;">Giveaway 10 NFTs & 5 ETH among 50 Community members!!</p>
+                                    <p style="color:white;">Custom Mutated Merch will be awarded to the most most active discord members and contest Winners!</p>
                                 </li>
                                 <li>
-                                    <p style="color:white;">Building a virtual space where member can hang out show off there NFT</p>
+                                    <p style="color:white;">Community will be able to vote on what type of merch!</p>
                                 </li>
                             </ul>
                          </div>
@@ -491,15 +492,31 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
                     <div class="card">
                         <div class="card-image">
                         <img src="meltedpoka.png" alt=""> 
-                        <h2 style="color:white">100%</h2>
+                        <h2 style="color:white">60%</h2>
                         </div>
                         <div class="card-body">
                              <ul>
                                 <li>
-                                    <p style="color:white;">Giveaway 10 NFTs & 5 ETH among 50 Community members!!</p>
+                                    <p style="color:white;">Mutated PokeVerse Token (ERC20) Launch ($MPOKE)</p>
                                 </li>
                                 <li>
-                                    <p style="color:white;">Staking  & Mutated PokeVerse Token (ERC20)</p>
+                                    <p style="color:white;">A suprise collection of new mutated pokeverse monsters will be airdropped to all NFT holders</p>
+                                </li>
+                                <li>   <p style="color:white;">More Community Contest For Members In Our Community!</p></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                                        <!-- Card -->
+                    <div class="card">
+                        <div class="card-image">
+                        <img src="meltedpoka.png" alt=""> 
+                        <h2 style="color:white">80%</h2>
+                        </div>
+                        <div class="card-body">
+                             <ul>
+                                <li>
+                                    <p style="color:white;">Launch of Mutated Pokeverse Game  </p>
                                 </li>
                                 <li>
                                     <p style="color:white;">A suprise collection of new mutated pokeverse monsters will be airdropped to all NFT holders</p>
@@ -507,6 +524,25 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
                             </ul>
                         </div>
                     </div>
+
+
+                    <div class="card">
+                        <div class="card-image">
+                        <img src="meltedpoka.png" alt=""> 
+                        <h2 style="color:white">100%</h2>
+                        </div>
+                        <div class="card-body">
+                             <ul>
+                                <li>
+                                    <p style="color:white;">Collabs, meetups, partnership for NFT!  </p>
+                                </li>
+                                <li>
+                                    <p style="color:white;">A suprise collection of new mutated pokeverse monsters will be airdropped to all NFT holders </p>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+      
       
 
                 </div> <!-- end of col -->
@@ -752,7 +788,7 @@ $(document).ready(function(){
 
 <script>
 // Set the date we're counting down to
-var countDownDate = new Date("Oct 8, 2021 02:00:00").getTime();
+var countDownDate = new Date("Oct 9, 2021 02:00:00").getTime();
 
 countDownDate.toLocaleString('en-US', { timeZone: 'America/New_York' });
 
