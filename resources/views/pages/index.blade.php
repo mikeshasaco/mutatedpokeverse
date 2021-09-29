@@ -500,7 +500,7 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
                                     <p style="color:white;">Mutated PokeVerse Token (ERC20) Launch ($MPOKE)</p>
                                 </li>
                                 <li>
-                                    <p style="color:white;">A suprise collection of new mutated pokeverse monsters will be airdropped to all NFT holders</p>
+                                    <p style="color:white;">A surprise collection of new mutated pokeverse monsters will be airdropped to all NFT holders</p>
                                 </li>
                                 <li>   <p style="color:white;">More Community Contest For Members In Our Community!</p></li>
                             </ul>
@@ -537,7 +537,7 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
                                     <p style="color:white;">Collabs, meetups, partnership for NFT!  </p>
                                 </li>
                                 <li>
-                                    <p style="color:white;">A suprise collection of new mutated pokeverse monsters will be airdropped to all NFT holders </p>
+                                    <p style="color:white;">A surprise collection of new mutated pokeverse monsters will be airdropped to all NFT holders </p>
                                 </li>
                             </ul>
                         </div>
