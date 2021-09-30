@@ -631,7 +631,7 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
                         <h3 style="color:white;">  When can i Mint?</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p style="color:black;">October 5st 2021, 2AM EST </p>
+                                <p style="color:black;">October 9st 2021, 2AM EST </p>
                             </div>
 
                         </div>
