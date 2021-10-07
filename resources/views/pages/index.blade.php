@@ -287,15 +287,14 @@
                 <div class="col-lg-6">
                     <div class="text-container">
                         <h1 class="h1-large" style="color: white !important; font-size:42px;">Mutated PokeVerse</h1>
-                        <h5 style="color:red;">CountDown To Launch</h5>
-                        <p id="demo" style="color:white; font-size:24px;"></p>
+                        <h5 style="color:red;">Charizlord Has Arrived</h5>
 
                         <h3 style="color: red;"><b>7000 unique 3 Eye Charizlord</b> </h3>
                         <p class="p-large" style="color: white !important;"> The year is 2140 and most of the monsters have Mutated.  Charizlord has developed a third eye that can see the future and slow down time. Here your chance to catch the super rare Charizlord! </p>
                         <a class="btn-solid-lg" style="background: rgb(58,180,87);
 background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, rgba(69,252,221,1) 94%);" href="https://discord.com/invite/7mEKVKz6sE">Discord</a>
-                        <a class="btn-solid-lg secondary" href="https://twitter.com/MPokeverse" target="_blank" style="background: rgb(58,180,87);
-background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, rgba(69,252,221,1) 94%);">Twitter</a>
+                        <a class="btn-solid-lg secondary" href="https://opensea.io/collection/the-mutated-pokeverse" target="_blank" style="background: rgb(58,180,87);
+background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, rgba(69,252,221,1) 94%);">Opensea</a>
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
                 <div class="col-lg-6">
