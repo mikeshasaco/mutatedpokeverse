@@ -66,8 +66,7 @@
     border-color: white;
     align-self: var(--align);
     margin: 0;">Connect Wallet</button> -->
-
-    <button class="btn btn-danger" type="cancel"> Connect Wallet</button>
+    <a class="btn btn-danger" href="http://mint.pokeversenft.com/"  style=" text-decoration: none;">Click To Mint</a>
         </div> <!-- end of container -->
     </nav> <!-- end of navbar -->
     <!-- end of navigation -->

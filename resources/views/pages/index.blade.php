@@ -325,12 +325,9 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
 
                     <h5 style="text-align:center; font-weight:bold; color:black;">0.06 ETH</h5>
 
-                    <div class =" selector" style="margin-left:38px; padding-top:50px;">
-                        <button class="btn btn-primary" style="border-radius: 50%;width: 2.5rem;height: 2.5rem; font-size: 1.35rem;"> - </button>
-                        <input type="number" style="max-width: 10rem; border-radius: 50px;" placeholder="1">
-                        <button class="btn btn-primary" style="border-radius: 50%;width: 2.5rem;height: 2.5rem; font-size: 1.35rem;"> + </button>
                         <br>
-                        <button style="font-weight: bold;
+                        <a href="http://mint.pokeversenft.com/"></a>
+                        <button onclick="location.href='http://mint.pokeversenft.com/'" style="font-weight: bold;
     cursor: pointer;
     border-radius: 50px;
     border-color: white;
@@ -341,10 +338,10 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
     padding-top: 0.35rem;
     padding-bottom: 0.35rem;
     width: 10rem;
-    margin-left:45px;
+    margin-left:101px;
     margin-top:14px;
     color:white;
-    ">Mint</button>
+    " type="button" >Click Here To Mint</button>
 
                     </div>
                 </div>
@@ -628,6 +625,17 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
                     </div>
 
                     <div class="question-title">
+                        <h3 style="color:white;">  Where can i Mint?</h3>
+                        <div class="content-main">
+                            <div class="content-inner">
+                                <a href="http://mint.pokeversenft.com/">Click To Mint</a>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <div class="question-title">
                         <h3 style="color:white;">  When can i Mint?</h3>
                         <div class="content-main">
                             <div class="content-inner">
@@ -747,6 +755,18 @@ Click the shiny mint button, approve the transaction on MetaMask and watch chari
                         <div class="content-main">
                             <div class="content-inner">
                                 <p style="color:black;"> Ethereum Network</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="question-title">
+                        <h3 style="color:white;"> Why can't i connect my wallet?</h3>
+                        <div class="content-main">
+                            <div class="content-inner">
+                                <p style="color:black;"> You will be able to connect your wallet October 7th, 2am </p>
                             </div>
 
                         </div>
