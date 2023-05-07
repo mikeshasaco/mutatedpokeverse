@@ -48,22 +48,22 @@
 .cardone.cardverse {
   --color1: #ffdf35;
   --color2: #65f0ff;
-  background-image: url("all.gif");
+  background-image: url("frog.jpg");
 }
 .cardone.mew {
   --color1: #eb8bff;
   --color2: #7eeefa;
-  background-image: url('gold.gif');
+  background-image: url('frog.jpg');
 }
 .cardone.black {
   --color1: #eb8bff;
   --color2: #7eeefa;
-  background-image: url('black.gif');
+  background-image: url('bfrog.jpg');
 }
 .cardone.pink {
   --color1: #eb8bff;
   --color2: #7eeefa;
-  background-image: url('pink.gif');
+  background-image: url('frog.jpg');
 }
 .cardone > span {
   position: relative;
@@ -97,7 +97,7 @@
 }
 .cardone:after {
   opacity: 1;
-  background-image: url("https://media.giphy.com/media/3ov9jQqeeHygU7zXrO/giphy.gif?cid=ecf05e47saar1c14zcrpsx889mhwyo6xb8py1laitbv9rt8b&rid=giphy.gif&ct=g");
+  background-image: url("https://media.giphy.com/media/RlwF2vFb4y7bDnWvcO/giphy-downsized-large.gif");
   background-position: center;
   background-size: 160%;
   z-index: 2;
