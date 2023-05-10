@@ -227,7 +227,6 @@
 @media(max-width:430px){
    .header{
       margin-top: 43px;
-  
     }
 }
 
@@ -276,125 +275,99 @@
     border-bottom: 1px solid #fff;
 }
 
-  
+.header{
+    background-image: url("966315.png")
+}
+
+.basic-2{
+    background-image: url("966315.png")
+
+}
+.basic-4{
+    background-image: url("966315.png")
+
+}
+
+#merchant-help .basic35{
+    background-image: url("966315.png")
+
+}
 </style>
 
 
     <!-- Header -->
-    <header id="header" class="header" style="background-color:black;">
+    <header id="header" class="header" >
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
                     <div class="text-container">
-                        <h1 class="h1-large" style="color: white !important; font-size:42px;">Mutated PokeVerse</h1>
-                        <h5 style="color:red;">Charizlord Has Arrived</h5>
+                        <h1 class="h1-large" style="color: white !important; font-size:42px;">PepeDex</h1>
+                        <h5 style="color:red;">Launching Friday 7pm EST</h5>
 
-                        <h3 style="color: red;"><b>7000 unique 3 Eye Charizlord</b> </h3>
-                        <p class="p-large" style="color: white !important;"> The year is 2140 and most of the monsters have Mutated.  Charizlord has developed a third eye that can see the future and slow down time. Here your chance to catch the super rare Charizlord! </p>
+                        <h3 style="color: red;"><b>Presale Now Available Join Telegram</b> </h3>
+                        <p class="p-large" style="color: white !important;"> PepeDex 100 card collectibles, full of different pepes that have different abilities. We will be making a collectible trading card platform where users can trade cards in our marketplace for Ethereum.</p>
                         <a class="btn-solid-lg" style="background: rgb(58,180,87);
-background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, rgba(69,252,221,1) 94%);" href="https://discord.com/invite/7mEKVKz6sE">Discord</a>
-                        <a class="btn-solid-lg secondary" href="https://opensea.io/collection/the-mutated-pokeverse" target="_blank" style="background: rgb(58,180,87);
-background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, rgba(69,252,221,1) 94%);">Opensea</a>
-                    </div> <!-- end of text-container -->
-                </div> <!-- end of col -->
+background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, rgba(69,252,221,1) 94%);" href="https://t.me/Pepe_Dex1">Telegram</a>
+                        <a class="btn-solid-lg secondary" href="https://twitter.com/dex_pepe" target="_blank" style="background: rgb(58,180,87);
+background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, rgba(69,252,221,1) 94%);">Twitter</a>
+                    </div> 
+                </div> 
                 <div class="col-lg-6">
                     <div class ="cardone cardverse" >
 
                     </div>
                    
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
+                </div> 
+            </div> 
       
-        </div> <!-- end of container -->
-    </header> <!-- end of header -->
-    <!-- end of header -->
-    
-    <section class="bpokemon">
-        <div>
-        </div>
+        </div> 
+    </header> 
 
-        <div class="container">
-            <div class =" row">
-                <div class="col-md-4 offset-md-4">
-                <h1 style="text-align:center; color:black; padding-bottom:10px; font-family: 'font-family: 'Lobster', cursive; ">Mint</h1>
-
-                    <div class ="cardone cardverse" >
-
-                    </div>
-
-                    <h5 style="text-align:center; font-weight:bold; color:black;">0.06 ETH</h5>
-
-                        <br>
-                        <a href="http://mint.pokeversenft.com/"></a>
-                        <button onclick="location.href='http://mint.pokeversenft.com/'" style="font-weight: bold;
-    cursor: pointer;
-    border-radius: 50px;
-    border-color: white;
-    align-self: var(--align);
-    margin: 0;
-    background-color: #007BFF;
-    font-size: 1.25rem;
-    padding-top: 0.35rem;
-    padding-bottom: 0.35rem;
-    width: 10rem;
-    margin-left:101px;
-    margin-top:14px;
-    color:white;
-    " type="button" >Click Here To Mint</button>
-
-                    </div>
-                </div>
-
-            </div>
-
-        </div>
-
-    </section>
-
-        <!-- Details 1 -->
+        
         <div id="details" class="basic-2" style="background-color: black;">
         <div class="container">
             <div class="row">
-                <div class="col-lg-5">
+                <div class="col-lg-6">
                     <div class="text-container">
-                        <h2 style="color:white;">Key Features</h2>
+                        <h2 style="color:white;">Tokenomics</h2>
                         <ul>
                         <li>
-                            <p style="color:white;">7,000 Charizlord NFTs</p>
+                            <p style="color:white;">100,000,000,000 pepedex tokens</p>
                         </li>
                         <li>
-                            <p style="color:white;">Up to 10 Charizlord NFTs Per Transaction</p>
+                            <p style="color:white;">Buy 4% (card development)</p>
                         </li>
                         <li>
-                            <p style="color:white;">0.06 ETH + gas</p>
+                            <p style="color:white;">Sell 4%  (marketing)</p>
                         </li>
                         <li>
+                            <p style="color:white;">Renounced contract after 24hours and buy and sell tax will be set to 0/0</p>
+                        </li>
+                        <!-- <li>
                             <p style="color:white;">Random Minting</p>
                         </li>
                         <li>
                             <p style="color:white;">5% of sale funds will be used to buy the floor and push the brand!</p>
-                        </li>
-                        <!-- <li>
-                            <p style="color:white;">Charizlord will be revealed shortly after the minting</p>
                         </li> -->
+                   
 
                         </ul>
                      
-                    </div> <!-- end of text-container -->
-                </div> <!-- end of col -->
-                <div class="col-lg-7">
-                    <div class="image-container">
-                        <img class="img-fluid" src="collage.png" alt="alternative">
-                    </div> <!-- end of image-container -->
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of basic-2 -->
-    <!-- end of details 1 -->
+                    </div> 
+                </div> 
+                <div class="col-lg-6">
+                <div class ="cardone mew" >
+
+                </div>
+                </div> 
+            </div> 
+        </div> 
+    </div> 
+    
 
 
 
-    <!-- Details 3 -->
+    
     <div class="basic-4" style="background-color:black">
         <div class="container">
             <div class="row">
@@ -402,48 +375,46 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
                 <div class ="cardone mew" >
 
                 </div>
-                </div> <!-- end of col -->
+                </div> 
                 <div class="col-lg-6">
                     <div class="text-container">
                         <h2 style="color:white;">Community Benefits</h2>
                             <ul>
-                                <li> <p style="color:white;font-size:28px;">20% of ETH raised will be used for Contest and Giveaway</p> </li>
-                                <li> <p style="color:white; font-size:28px;">Access To exclusive member only events</p> </li>
-                                <li> <p style="color:white;font-size:28px;">You will be able to Stake your NFT and earn $mpoke token </p> </li>
+                                <li> <p style="color:white;font-size:28px;">Weekly cards airdropped to holders</p> </li>
+                                <li> <p style="color:white; font-size:28px;">Trading card platform where users can buy and trade rare pepedex cards on our marketplace </p> </li>
+                                <li> <p style="color:white;font-size:28px;">Presale NFT drop will be exclusive to holders  </p> </li>
                                 <li> <p style="color:white;font-size:28px;">Voting Rights on Community Events </p> </li>
 
 
                             </ul>
-                    </div> <!-- end of text-container -->
-                </div> <!-- end of col -->
+                    </div> 
+                </div> 
                 
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of basic-4 -->
-    <!-- end of details 3 -->
+            </div> 
+        </div> 
+    </div> 
+    
   
 
 
     <!-- Introduction -->
-    <div class="basic-1" style="background-color:black;">
+    <!-- <div class="basic-1" style="background-color:black;">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <h3 style="color:white;">Road Map</h3>
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of basic-1 -->
-    <!-- end of introduction -->
+                </div> 
+            </div> 
+        </div> 
+    </div>  -->
+  
 
 
-    <!-- Features -->
-    <div id="features" class="cards-1" style="background-color:black;">
+    <!-- <div id="features" class="cards-1" style="background-color:black;">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     
-                    <!-- Card -->
                     <div class="card">
                         <div class="card-image">
                         <img src="meltedpoka.png" alt="">
@@ -464,9 +435,7 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
                             </ul>
                         </div>
                     </div>
-                    <!-- end of card -->
 
-                    <!-- Card -->
                     <div class="card">
                         <div class="card-image">
                         <img src="meltedpoka.png" alt=""> <h2 style="color:white">40%</h2>
@@ -482,9 +451,7 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
                             </ul>
                          </div>
                     </div>
-                    <!-- end of card -->
 
-                    <!-- Card -->
                     <div class="card">
                         <div class="card-image">
                         <img src="meltedpoka.png" alt=""> 
@@ -503,7 +470,7 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
                         </div>
                     </div>
 
-                                        <!-- Card -->
+                                       
                     <div class="card">
                         <div class="card-image">
                         <img src="meltedpoka.png" alt=""> 
@@ -541,27 +508,27 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
       
       
 
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of cards-1 -->
-    <!-- end of features -->
+                </div> 
+            </div> 
+        </div> 
+    </div>  -->
+   
 
 
-
+<!-- 
    <section style="background-color:black">
 
-   <!-- Introduction -->
+   
    <div class="basic-1" style="background-color:black;">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <h3 style="color:white;">Meet The Team</h3>
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of basic-1 -->
-    <!-- end of introduction -->
+                </div> 
+            </div> 
+        </div> 
+    </div> 
+   
 
     <div class="container"style="background-color:black;">
         <div class="row" style="background-color:black; text-align:center;">
@@ -599,24 +566,24 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
     <div>
 
 
-   </section>
+   </section> -->
 
 
 
 
 
 
-    <section id="Merchant-help"  style="padding-top: 100px; padding-bottom:100px; background:black; " >
+    <section id="Merchant-help" class="basic35"  style="padding-top: 100px; padding-bottom:100px; background:black; " >
     <div class="container">
         <div class="row">
             <div class="col-md-12">
                 <h2 class="vouch-merchant-customerh2" style="text-align: center; padding-bottom:80px; font-size: 60px; color:black; ">FAQ</h2>
 
                     <div class="question-title">
-                        <h3 style="color:white;">  What is Mutated Pokeverse Society?</h3>
+                        <h3 style="color:white;">  What is Pepedex?</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p style="color:black;">A community of trainers catching Charizlord for him or herself! 7000 Unique Charizlord are out there in the Ethereum blockchain that possess different attributes and traits from one another. </p>
+                                <p style="color:black;">Secret Society of pepedex card collectors that want to bring change to the crypto community. </p>
                             </div>
 
                         </div>
@@ -624,10 +591,10 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
                     </div>
 
                     <div class="question-title">
-                        <h3 style="color:white;">  Where can i Mint?</h3>
+                        <h3 style="color:white;"> When is launch date</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <a href="http://mint.pokeversenft.com/">Click To Mint</a>
+                            <p style="color:black;"> May 12th 2023 7pm EST </p>
                             </div>
 
                         </div>
@@ -635,44 +602,10 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
                     </div>
 
                     <div class="question-title">
-                        <h3 style="color:white;">  When can i Mint?</h3>
+                        <h3 style="color:white;">  How can I join presale?</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p style="color:black;">October 7st 2021, 2AM EST </p>
-                            </div>
-
-                        </div>
-
-                    </div>
-
-
-                    <div class="question-title">
-                        <h3 style="color:white;">  How much to mint a Charizlord ?</h3>
-                        <div class="content-main">
-                            <div class="content-inner">
-                                <p style="color:black;">0.06 ETH + Gas</p>
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                    <div class="question-title">
-                        <h3 style="color:white;">  How much Charizlord can i mint at a time ?</h3>
-                        <div class="content-main">
-                            <div class="content-inner">
-                                <p style="color:black;">You can buy up to 10 Charizlord Per Transaction ! </p>
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                    <div class="question-title">
-                        <h3 style="color:white;">  Where can i buy one Charizlord ?</h3>
-                        <div class="content-main">
-                            <div class="content-inner">
-                                <p style="color:black;">When the Project launch you will be able to buy Charizlord on this website.</p>
+                                 <a href="https://t.me/Pepe_Dex1">Join Telegram For More Detail</a>
                             </div>
 
                         </div>
@@ -681,11 +614,33 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
 
 
                     <div class="question-title">
-                        <h3 style="color:white;"> How can i buy?</h3>
+                        <h3 style="color:white;">  Which network is Pepedex on?</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p style="color:black;">You will need to have MetaMask installed and set up (If you don't know what MetaMask is or how to install it, please visit <a href="https://metamask.io">MetaMask</a>   for instructions).  In order to buy, connect with your wallet and use the minting interface to select how many Charizlord you want to get.
-Click the shiny mint button, approve the transaction on MetaMask and watch charizlord show into your wallet!</p>
+                                <p style="color:black;">Ethereum</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <div class="question-title">
+                        <h3 style="color:white;"> Where can you view contract</h3>
+                        <div class="content-main">
+                            <div class="content-inner">
+                                <p style="color:black;">Visit Telegram</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="question-title">
+                        <h3 style="color:white;"> Will the contract be renounced?</h3>
+                        <div class="content-main">
+                            <div class="content-inner">
+                                <p style="color:black;">Yes the contract will be renounced and the buy tax and sell tax will be change to 0/0 after the first day</p>
                             </div>
 
                         </div>
@@ -705,10 +660,10 @@ Click the shiny mint button, approve the transaction on MetaMask and watch chari
 
 
                     <div class="question-title">
-                        <h3 style="color:white;"> Where can is the Discord link?</h3>
+                        <h3 style="color:white;"> Where I see the Telegram</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p style="color:black;"> <a href="https://discord.com/invite/7mEKVKz6sE">Discord</a> </p>
+                                <p style="color:black;"> <a href="https://t.me/Pepe_Dex1">Telegram</a> </p>
                             </div>
 
                         </div>
@@ -719,7 +674,7 @@ Click the shiny mint button, approve the transaction on MetaMask and watch chari
                         <h3 style="color:white;"> where can i find the twitter link?</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p style="color:black;"> <a href="https://twitter.com/MPokeverse" target="_blank">Twitter</a> </p>
+                                <p style="color:black;"> <a href="https://twitter.com/dex_pepe" target="_blank">Twitter</a> </p>
                             </div>
 
                         </div>
@@ -727,18 +682,18 @@ Click the shiny mint button, approve the transaction on MetaMask and watch chari
                     </div>
 
                     <div class="question-title">
-                        <h3 style="color:white;"> Where will I be able to see my Charizlord NFT?</h3>
+                        <h3 style="color:white;"> How often will these new cards drop</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p style="color:black;"> Your Charizlord NFT will appear in your metamask wallet, also you will be able to see your NFT on opensea.io .</p>
+                                <p style="color:black;"> Cards will be released to holders every monday.</p>
                             </div>
 
                         </div>
 
                     </div>
-
+<!-- 
                     <div class="question-title">
-                        <h3 style="color:white;"> Which Charizlord set is ultra rare?</h3>
+                        <h3 style="color:white;"> </h3>
                         <div class="content-main">
                             <div class="content-inner">
                                 <p style="color:black;">The gold Armor/ Gold Skin Charizlord</p>
@@ -770,7 +725,7 @@ Click the shiny mint button, approve the transaction on MetaMask and watch chari
 
                         </div>
 
-                    </div>
+                    </div> -->
                
 
              

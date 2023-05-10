@@ -7,7 +7,7 @@
 
 
     <!-- Webpage Title -->
-    <title>Mutated Pokeverse</title>
+    <title>PepeDex</title>
     
     <!-- Styles -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -21,7 +21,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
 	<!-- Favicon  -->
-    <link rel="icon" href="meltedpoka.png">
+    <link rel="icon" href="pepedex.png">
 </head>
 <body data-spy="scroll" data-target=".fixed-top">
     
@@ -34,7 +34,7 @@
             <!-- <a class="navbar-brand logo-text page-scroll" href="index.html">Pavo</a> -->
 
             <!-- Image Logo -->
-            <a class="navbar-brand logo-image" href="index.html"><img src="meltedpoka.png" alt="alternative" height="57" width="57"></a> 
+            <a class="navbar-brand logo-image" href="index.html"><img src="pepedex.png" alt="alternative" height="57" width="57"></a> 
 
             <!-- <button class="navbar-toggler p-0 border-0" type="button" data-toggle="offcanvas">
                 <span class="navbar-toggler-icon"></span>
@@ -66,7 +66,7 @@
     border-color: white;
     align-self: var(--align);
     margin: 0;">Connect Wallet</button> -->
-    <a class="btn btn-danger" href="http://mint.pokeversenft.com/"  style=" text-decoration: none;">Click To Mint</a>
+    <!-- <a class="btn btn-danger" href="http://mint.pokeversenft.com/"  style=" text-decoration: none;">Click To Mint</a> -->
         </div> <!-- end of container -->
     </nav> <!-- end of navbar -->
     <!-- end of navigation -->
