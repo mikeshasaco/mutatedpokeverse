@@ -392,7 +392,97 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
         </div> 
     </div> 
     
-  
+   <!-- Details 1 -->
+   <div id="details" class="basic-2" style="background-color:black;">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5">
+                    <div class="text-container">
+                        <h2 style="color:white">Presale Instructions:</h2>
+                        <p style="color:white;">Send Ethereum amount to the designated wallet address: 0x1D979859040938b6203fD4c53665828F3b1C156a</p>
+                        <p style="color:white;">Tokens will the be sent immediately to the user wallet address.</p>
+                        <p style="color:white;">The user will also recieve the Pepe RainForest NFT that will get sent to there opensea account.</p>
+                        <p style="color:white;">Message professor Pepe for any questions you may have!</p>
+                        <a class="btn-solid-lg secondary" href="https://twitter.com/dex_pepe" target="_blank" style="background: rgb(58,180,87);
+background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, rgba(69,252,221,1) 94%);">Telegram</a>
+
+                        <!-- <p>We enjoy helping small and medium sized tech businesses take a shot at established Fortune 500 companies</p> -->
+                    </div> <!-- end of text-container -->
+                </div> <!-- end of col -->
+                <div class="col-lg-7">
+                <table class="table">
+  <thead>
+    <tr>
+     <center><h2 style="color:white;">Presale Chart</h2> </center>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+    
+    <td style="color:white;">ETH Amount</td>
+    <td style="color:white;">($Zatch) Tokens</td>
+   
+  </tr>
+    <tr>
+    
+      <td style="color:white;">.1 ETH</td>
+      <td style="color:white;">5,000,000,000</td>
+    </tr>
+    <tr>
+      
+      <td style="color:white;">.2 ETH</td>
+      <td style="color:white;">10,00,0000,000</td>
+    </tr>
+    <tr>
+     
+      <td style="color:white;">.3 ETH </td>
+      <td style="color:white;">15,00,0000,000</td>
+    </tr>
+    <tr>
+     
+     <td style="color:white;">.4 ETH</td>
+     <td style="color:white;">20,00,0000,000</td>
+   </tr>
+   <tr>
+     
+     <td style="color:white;">.5 ETH</td>
+     <td style="color:white;">25,00,0000,000</td>
+   </tr>
+   <tr>
+     
+     <td style="color:white;">.6 ETH</td>
+     <td style="color:white;">30,00,0000,000</td>
+   </tr>
+   <tr>
+     
+     <td style="color:white;">.7 ETH</td>
+     <td style="color:white;">35,00,0000,000</td>
+   </tr>
+   <tr>
+     
+     <td style="color:white;">.8 ETH</td>
+     <td style="color:white;">40,00,0000,000</td>
+   </tr>
+   <tr>
+     
+     <td style="color:white;">.9 ETH</td>
+     <td style="color:white;">45,00,0000,000</td>
+   </tr>
+   <tr>
+     
+     <td style="color:white;">1 ETH</td>
+     <td style="color:white;">50,00,0000,000</td>
+   </tr>
+
+  </tbody>
+</table>
+                    
+                    </div> <!-- end of image-container -->
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </div> <!-- end of basic-2 -->
+    <!-- end of details 1 -->
 
 
     <!-- Introduction -->
