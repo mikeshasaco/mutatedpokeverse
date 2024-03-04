@@ -340,9 +340,7 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
                         <li>
                             <p style="color:white;">Sell 4%  (marketing)</p>
                         </li>
-                        <li>
-                            <p style="color:white;">Renounced contract after 24hours and buy and sell tax will be set to 0/0</p>
-                        </li>
+                      
                         <!-- <li>
                             <p style="color:white;">Random Minting</p>
                         </li>
@@ -594,7 +592,7 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
                         <h3 style="color:white;"> When is launch date</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                            <p style="color:black;"> May 12th 2023 7pm EST </p>
+                            <p style="color:black;">   </p>
                             </div>
 
                         </div>
@@ -636,7 +634,7 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
                     </div>
 
 
-                    <div class="question-title">
+                    <!-- <div class="question-title">
                         <h3 style="color:white;"> Will the contract be renounced?</h3>
                         <div class="content-main">
                             <div class="content-inner">
@@ -645,9 +643,9 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
 
                         </div>
 
-                    </div>
+                    </div> -->
 
-                    <div class="question-title">
+                    <!-- <div class="question-title">
                         <h3 style="color:white;"> What is the Contract Address?</h3>
                         <div class="content-main">
                             <div class="content-inner">
@@ -656,7 +654,7 @@ background: linear-gradient(90deg, rgba(58,180,87,1) 0%, rgba(253,29,29,1) 38%, 
 
                         </div>
 
-                    </div>
+                    </div> -->
 
 
                     <div class="question-title">
